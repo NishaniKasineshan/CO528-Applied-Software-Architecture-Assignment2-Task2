@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CO528-Applied-Software-Architecture-Assignment2-Task2/static/css/main.8d63aa17.css",
+    "main.js": "/CO528-Applied-Software-Architecture-Assignment2-Task2/static/js/main.7a67225d.js",
+    "static/js/453.ad6eb26e.chunk.js": "/CO528-Applied-Software-Architecture-Assignment2-Task2/static/js/453.ad6eb26e.chunk.js",
+    "index.html": "/CO528-Applied-Software-Architecture-Assignment2-Task2/index.html",
+    "main.8d63aa17.css.map": "/CO528-Applied-Software-Architecture-Assignment2-Task2/static/css/main.8d63aa17.css.map",
+    "main.7a67225d.js.map": "/CO528-Applied-Software-Architecture-Assignment2-Task2/static/js/main.7a67225d.js.map",
+    "453.ad6eb26e.chunk.js.map": "/CO528-Applied-Software-Architecture-Assignment2-Task2/static/js/453.ad6eb26e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8d63aa17.css",
+    "static/js/main.7a67225d.js"
+  ]
+}
